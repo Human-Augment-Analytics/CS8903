@@ -34,7 +34,7 @@ The unit meeting structure exists and is documented. The attendance requirement 
 - **Post-meeting updates are missing** — absent researchers and credit researchers are not consistently logged in the time-log channel after meetings
 
 ### What This Semester's Observation Adds
-- Attendance is inconsistent — channels may have 40–50 members but only 20–30 actively post or show up
+- Attendance is inconsistent 
 - Researchers and admin are unlikely to attend unless explicitly reminded — the requirement is not self-enforcing
 - There is no facilitation guide giving unit managers clear direction on how to run a productive meeting
 - Meeting quality varies widely depending on which faculty or advisor is involved, not because of any organizational standard
