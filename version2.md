@@ -143,7 +143,6 @@ If HAAG implements a structured unit meeting facilitation framework with clear m
 
 This initiative builds directly on the work of Kefei Yan, Vanessa Zhou, and Sean Khan. Before finalizing this document or building new procedures, the following outreach and review steps are required:
 
-- [ ] Review Bri's document and understand her framework before designing anything new
 - [ ] Watch a unit meeting recording (contact Cody) or gather feedback from prior students and managers on whether meetings were useful and why
 - [ ] Talk to Kefei and Vanessa about what they observed and what they would change
 - [ ] Talk to admin about the collaboration Slack channels and what has already been tried
