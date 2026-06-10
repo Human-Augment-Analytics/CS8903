@@ -1,0 +1,154 @@
+# HAAG — Faculty Relations
+## Unit Meetings & Collaboration Initiative
+### Scoping Document — Summer 2026
+*Human Augmented Analytics Group (HAAG) | Georgia Institute of Technology*
+*Building off prior work by Kefei Yan, Vanessa Zhou, and Sean Khan*
+
+---
+
+## 1. What Unit Meetings Are
+
+Unit meetings are large group meetings that bring together several projects with a similar project type. Their purpose is to encourage the transfer of useful information across researchers who may be working on similar objectives and using similar tools. They also serve as an entry point for inviting external experts to attend in their area of expertise.
+
+In prior semesters HAAG ran four units: Video Detection, User-Interface, 3-D Vision, and NLP. Unit meetings are documented and recorded to preserve the findings of the broader community of practice.
+
+Each unit is supported by:
+- A **unit website** connected to the main HAAG website with project summaries, past seminar recordings, resources, Zotero, and FAQ
+- A **shared Zotero collection** of literature relevant to the unit topic, with participation credit awarded for contributions
+- A **tools and resources page** for non-literature resources
+- A **FAQ workflow** where researchers submit problems, the unit manager logs and posts them to external forums, and solutions are documented for the community
+- A **discussion structure** led by a faculty or computational advisor, invited speaker, or student demo
+
+---
+
+## 2. Problem Statement
+
+The unit meeting structure exists and is documented. The attendance requirement exists — researchers are expected to attend at least 1–2 unit meetings per semester. But the infrastructure behind it is not functioning as designed. Prior work by Kefei Yan, Vanessa Zhou, and Sean Khan identified the following specific breakdowns:
+
+### What the Prior Audit Found
+- **Website maintenance is failing** — unit websites are not consistently maintained or connected to the main HAAG website
+- **Zotero contributions are inconsistent** — contributions are not being requested at every meeting and participation credit tracking is unreliable
+- **The FAQ workflow is not being followed** — researchers are not submitting problems with sufficient detail, unit managers are not consistently logging and posting problems to external forums, and pending problems are not being reviewed at meetings
+- **Credit tracking has gaps** — actual frequency of participation credits awarded versus researchers who should have received credit is inconsistent
+- **Recording and upload is inconsistent** — meetings are not consistently recorded, uploaded to YouTube, or posted with summaries on the unit website
+- **Post-meeting updates are missing** — absent researchers and credit researchers are not consistently logged in the time-log channel after meetings
+
+### What This Semester's Observation Adds
+- Attendance is inconsistent — channels may have 40–50 members but only 20–30 actively post or show up
+- Researchers and admin are unlikely to attend unless explicitly reminded — the requirement is not self-enforcing
+- There is no facilitation guide giving unit managers clear direction on how to run a productive meeting
+- Meeting quality varies widely depending on which faculty or advisor is involved, not because of any organizational standard
+- Slack channels meant to support unit collaboration are largely inactive — most engagement happens in one or two channels rather than across the full infrastructure
+- Researchers are hesitant to post in Slack, making the environment feel high-stakes rather than casual and accessible
+- Three advisor types — faculty sponsors, computational advisors, and pitching faculty — give guidance to researchers but this advice is not tracked, compared, or reconciled anywhere, leading to confusion when guidance conflicts
+
+---
+
+## 3. What Collaboration Actually Means in This Context
+
+Here is what collaboration should look like concretely in HAAG unit meetings and Slack:
+
+**In unit meetings:**
+- A researcher on a Video Detection project demos a preprocessing technique and a researcher on a 3-D Vision project adapts it for their pipeline — this is cross-team knowledge transfer
+- A computational advisor reviews a code demo from a student and provides formative feedback that the student then shares in the Slack channel for others facing the same issue
+- A unit manager posts a FAQ problem to StackOverflow before the meeting and the group reviews responses together, turning an individual problem into shared organizational knowledge
+- An invited speaker presents on a tool relevant to the unit and researchers from multiple projects contribute to a shared Zotero entry afterward
+
+**In Slack:**
+- Researchers posting in unit channels rather than only in project channels — making their progress and problems visible to a broader group
+- Unit managers sending structured pre-meeting reminders that prompt researchers to prepare Zotero contributions, resource links, or problem statements before showing up
+- Coding and working sessions being scheduled and advertised in unit channels so researchers can drop in without a formal meeting structure
+- Researchers responding to each other's questions in unit channels rather than waiting for an advisor to answer
+
+**What it does not look like:**
+- A unit channel where only the unit manager posts
+- A meeting where only one team presents and others observe passively
+- Researchers getting different advice from faculty, computational advisors, and pitching faculty with no shared record of what was said
+
+---
+
+## 4. Hypothesis
+
+If HAAG implements a structured unit meeting facilitation framework with clear manager responsibilities, an active Slack channel strategy, and a system for tracking advisor guidance, then researchers will attend more consistently, contribute more actively, and report less confusion about expectations — measurable through surveys, channel activity audits, and attendance logs.
+
+---
+
+## 5. What Needs to Be Built or Fixed
+
+**Unit Meeting Structure**
+- A facilitation guide for unit managers that gives them step-by-step direction before, during, and after each meeting — built on top of the existing unit manager responsibilities document
+- A minimum agenda template so meetings have consistent structure regardless of who is leading
+- An enforcement mechanism for the attendance requirement — currently researchers are not reminded or held accountable
+
+**Slack and Collaboration**
+- An audit of all unit Slack channels to compare active vs. inactive channels and identify what is driving the difference
+- A strategy for activating low-engagement channels — specific actions unit managers can take to encourage casual posting
+- A working hours or coding session model that gives researchers a low-stakes way to collaborate without a formal meeting structure
+- Clearer norms for which channel to use for what purpose so researchers stop defaulting to one or two familiar channels
+
+**Advisor Guidance Tracking**
+- A structured log for tracking advice given by faculty sponsors, computational advisors, and pitching faculty
+- A way to surface conflicts between advisor types so researchers are not getting contradictory direction with no path to resolution
+- A shared document or channel where advisor guidance is visible to more than just the individual researcher who received it
+
+**Credit and Participation**
+- Fix the credit tracking gap identified in the prior audit — Zotero contributions, resource page contributions, demo presentations, and FAQ solutions should all be logged consistently
+- Post-meeting updates to the time-log channel need to be enforced as a standing requirement, not an optional action
+
+---
+
+## 6. How We Will Test and Observe This
+
+| Method | What It Measures | When |
+|--------|-----------------|------|
+| Slack channel audit | Active vs. inactive channels, post frequency, who is posting | Before framework launch (baseline) |
+| Pre-semester survey | Researcher comfort with Slack, unit meeting usefulness, advisor guidance clarity | Week 1–2 |
+| Attendance tracking | Actual attendance against 40–50 member baseline | Every unit meeting |
+| Credit tracking audit | Frequency of participation credits awarded vs. researchers who should have received credit | Mid-semester and end of semester |
+| Post-semester survey | Change in collaboration comfort, meeting usefulness, advisor clarity | Week 14–15 |
+| Unit website audit | Whether websites are maintained, recordings uploaded, FAQ updated | Mid-semester |
+
+---
+
+## 7. Survey Questions
+
+| # | Question | Format |
+|---|----------|--------|
+| 1 | How often do you attend unit meetings per semester? | Multiple choice |
+| 2 | Do you feel unit meetings are a useful space for collaboration? | 1 (Low) – 5 (High) |
+| 3 | How comfortable are you posting in HAAG Slack channels? | 1 (Low) – 5 (High) |
+| 4 | Have you received conflicting advice from different advisor types this semester? | Yes / Somewhat / No |
+| 5 | How clear are you on what each of your three advisor types is responsible for? | 1 (Low) – 5 (High) |
+| 6 | Do you feel collaboration is happening across teams in HAAG? | 1 (Low) – 5 (High) |
+| 7 | Have you contributed to a unit Zotero collection, resource page, or FAQ this semester? | Yes / No |
+| 8 | Did you receive participation credit for that contribution? | Yes / No / I did not contribute |
+
+---
+
+## 8. Metrics for Evaluation
+
+| Metric | Baseline | Target |
+|--------|----------|--------|
+| Unit meeting attendance rate | 20–30 active out of 40–50 members | 80%+ attending at least 1–2 meetings per semester |
+| Slack channel activity | Most unit channels inactive | Increase in posts across at least 3 previously inactive channels |
+| Credit tracking completion | Inconsistent per prior audit | 100% of contributing researchers logged per meeting |
+| Post-meeting updates logged | Not consistently done | 100% of meetings have a time-log update within 24 hours |
+| Researcher satisfaction with collaboration | Not yet measured | Mean score of 4 out of 5 or above post-implementation |
+| Advisor guidance clarity | Not yet measured | Reduction in reported conflicting advice across advisor types |
+| Unit website maintenance | Not consistently maintained per prior audit | All active unit websites updated within one week of each meeting |
+
+---
+
+## 9. Prior Work to Build On
+
+This initiative builds directly on the work of Kefei Yan, Vanessa Zhou, and Sean Khan. Before finalizing this document or building new procedures, the following outreach and review steps are required:
+
+- [ ] Review Bri's document and understand her framework before designing anything new
+- [ ] Watch a unit meeting recording (contact Cody) or gather feedback from prior students and managers on whether meetings were useful and why
+- [ ] Talk to Kefei and Vanessa about what they observed and what they would change
+- [ ] Talk to admin about the collaboration Slack channels and what has already been tried
+- [ ] Review existing coding and working sessions and factor them into the collaboration model
+- [ ] Audit the Slack channels directly using specific observations, not general impressions
+- [ ] Contact Steve after completing the above outreach
+- [ ] Contact the professor in charge of unit meetings last, after all other groundwork is done
+
