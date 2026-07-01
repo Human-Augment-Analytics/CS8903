@@ -3,8 +3,6 @@
 
 
 ## Feedback on Slack Audit
-
-- Bri liked what was in the markdown files on GitHub
 - **Remove r-scripting unit** — it was defunct, not a valid example
 - **Remove 3d-vision unit** — it collapsed, not a good representation
 - **Keep methods, image-processing, and UI** — the only three that got a real run
