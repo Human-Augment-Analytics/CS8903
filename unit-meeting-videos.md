@@ -74,10 +74,4 @@
 ## Shared Requirements for Both Videos
 
 - Reference the actual guide document so viewers know where to find full details
-- Keep production simple — screen recording with voiceover is fine, doesn't need to be polished
 - End each video with a way to give feedback (e.g., "reply in this thread" or a short form)
-- These videos are also a feedback-gathering tool — after sharing them, collect reactions from a few faculty and a few researchers before wider rollout
-
----
-
-*HAAG — Unit Meetings Initiative | Summer 2026*
