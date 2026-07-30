@@ -1,7 +1,6 @@
 # Semester Summary — Unit Meetings & Collaboration Initiative
 ## Kevin Lemus-Medrano | HAAG | Summer 2026
 
-**GitHub:** [link to repo]
 
 ---
 
