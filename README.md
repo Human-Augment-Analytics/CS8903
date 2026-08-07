@@ -45,7 +45,7 @@ The following deliverables were completed during the semester:
 - Created separate onboarding PowerPoint presentations for faculty advisors and researchers.
 - Wrote onboarding scripts for both onboarding videos.
 - Recorded faculty and researcher onboarding videos introducing the standardized unit meeting process.
-- Revised onboarding materials throughout the semester based on project manager and stakeholder feedback.
+- Revised onboarding materials throughout the semester based on project manager, instructional staff, and presentation feedback.
 - Prepared documentation supporting future implementation and dissemination throughout HAAG.
 
 ---
