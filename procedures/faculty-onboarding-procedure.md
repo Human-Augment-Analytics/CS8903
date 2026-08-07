@@ -2,15 +2,17 @@
 
 ## Purpose
 
-The Faculty Onboarding Procedure provides a standardized introduction to HAAG's Unit Meeting and Collaboration process for faculty advisors and computational advisors. Its purpose is to clearly define advisor responsibilities, reduce administrative workload, and establish consistent expectations across all HAAG research units.
+The Faculty Onboarding Procedure provides a standardized introduction to HAAG's Unit Meeting and Collaboration process for faculty advisors and computational advisors. The goal of this procedure is to clearly define advisor responsibilities, establish consistent expectations across research units, and reduce the administrative workload associated with managing unit meetings.
 
 ---
 
 # Scope and Use
 
-This procedure should be used whenever a new faculty advisor or computational advisor joins a HAAG unit. It introduces the standardized meeting structure, explains advisor responsibilities, and outlines how researcher accountability is managed.
+This procedure should be used whenever a new faculty advisor or computational advisor joins a HAAG research unit.
 
-This procedure does not replace the Unit Researcher Guide. Instead, it serves as an onboarding resource that prepares advisors before they begin participating in unit meetings.
+It introduces the standardized unit meeting process, explains advisor responsibilities, and clarifies how researchers manage meeting logistics and accountability through the standardized workflow.
+
+This procedure complements the Unit Researcher Guide and should be completed before participating in unit meetings.
 
 ---
 
@@ -18,28 +20,38 @@ This procedure does not replace the Unit Researcher Guide. Instead, it serves as
 
 ## Faculty Advisors
 
-- Attend unit meetings when available.
-- Provide research guidance and mentorship.
-- Share subject matter expertise.
-- Offer constructive feedback to researchers.
+Faculty advisors are responsible for:
 
-Faculty advisors are encouraged to participate beyond these responsibilities if they choose, but additional involvement is optional.
+- Attending unit meetings when available.
+- Providing research guidance and mentorship.
+- Sharing subject matter expertise.
+- Offering constructive feedback to researchers.
+
+Faculty advisors are welcome to participate beyond these responsibilities, but additional involvement is optional.
 
 ## Computational Advisors
 
-- Support unit meetings when faculty advisors are unavailable.
-- Provide technical guidance when appropriate.
+Computational advisors may:
+
+- Lead meetings when faculty advisors are unavailable.
+- Provide technical guidance and project support.
 - Assist researchers throughout the semester.
 
 ## Researchers
 
-Researchers coordinate meeting logistics and are responsible for attendance tracking, meeting recaps, report submissions, and other administrative tasks through the standardized workflow.
+Researchers are responsible for:
+
+- Coordinating meeting logistics.
+- Preparing meeting materials.
+- Tracking attendance and participation.
+- Posting meeting recaps.
+- Managing report submissions through the standardized workflow.
 
 ---
 
 # Tools and Prerequisites
 
-Faculty advisors should review the following before participating:
+Before participating in a unit meeting, faculty advisors should review:
 
 - Faculty Onboarding Presentation
 - Faculty Onboarding Video
@@ -53,33 +65,36 @@ Faculty advisors should review the following before participating:
 2. Watch the Faculty Onboarding Video.
 3. Review the Unit Researcher Guide.
 4. Attend scheduled unit meetings.
-5. Provide mentorship and research guidance.
-6. Allow researchers to manage meeting logistics through the standardized workflow.
-7. Continue participating in unit meetings while providing feedback and support.
+5. Provide mentorship, research guidance, and feedback.
+6. Allow researchers to manage meeting logistics and administrative tasks through the standardized workflow.
+7. Continue supporting the research unit throughout the semester.
 
 ---
 
 # Outputs and Success Criteria
 
-Successful completion of this procedure means the faculty advisor:
+A faculty advisor who completes this onboarding procedure should:
 
-- Understands the purpose of the unit meeting system.
-- Understands advisor responsibilities.
-- Understands how researcher accountability is managed.
-- Knows where additional documentation can be found.
-- Can begin participating in unit meetings with minimal administrative responsibilities.
+- Understand the purpose of the unit meeting process.
+- Understand advisor responsibilities.
+- Understand how researcher accountability is managed.
+- Know where additional onboarding documentation is located.
+- Be prepared to participate in unit meetings while focusing primarily on mentorship.
 
 ---
 
 # Lessons Learned and Future Improvements
 
-During the Summer 2026 semester, the onboarding procedure was developed and refined through multiple rounds of project manager and instructional feedback. Due to the compressed semester timeline, the onboarding materials were not formally disseminated or evaluated.
+Throughout the semester, this procedure was refined through multiple rounds of project manager and instructional feedback. The onboarding materials were completed; however, due to the compressed summer semester and evolving project scope, the procedure was not formally disseminated or evaluated.
 
-Future HAAG teams should distribute the onboarding materials to new faculty advisors, collect structured feedback, evaluate the effectiveness of the onboarding process, and continue refining the procedure based on future implementation.
+Future HAAG teams should distribute the onboarding materials to new faculty advisors, collect structured feedback, evaluate the onboarding experience, and continue refining the procedure based on implementation results.
 
 ---
 
 # Contributors
 
+**Primary Author**
 - Arjun Sivanesan
-- Kevin Lemus-Medrano (Project Manager – Review and Feedback)
+
+**Review and Feedback**
+- Kevin Lemus-Medrano (Project Manager)
