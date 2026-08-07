@@ -51,11 +51,18 @@ Researchers are responsible for:
 
 # Tools and Prerequisites
 
-Before participating in a unit meeting, faculty advisors should review:
+## Tools
 
 - Faculty Onboarding Presentation
 - Faculty Onboarding Video
+
+## Prerequisites
+
+Before participating in a unit meeting, faculty advisors should review:
+
 - Unit Researcher Guide
+- Faculty Onboarding Presentation
+- Faculty Onboarding Video
 
 ---
 
