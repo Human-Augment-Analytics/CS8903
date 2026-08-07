@@ -53,8 +53,8 @@ Researchers are responsible for:
 
 ## Tools
 
-- Faculty Onboarding Presentation
-- Faculty Onboarding Video
+- Microsoft Office Suite (PowerPoint and Word)
+- Recording device or screen recording software
 
 ## Prerequisites
 
