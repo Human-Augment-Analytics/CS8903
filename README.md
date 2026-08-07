@@ -2,7 +2,7 @@
 
 Welcome to the **Unit Meeting and Collaboration Initiative** repository.
 
-This repository contains the final procedures, onboarding resources, implementation documentation, and supporting materials developed during the Summer 2026 semester. The purpose of this initiative was to standardize the HAAG unit meeting process by creating consistent onboarding resources for both faculty advisors and researchers while allowing faculty advisors to focus on mentorship rather than administrative responsibilities.
+This repository contains the final procedures, onboarding resources, implementation documentation, and supporting materials developed during the Summer 2026 semester. The purpose of this initiative was to standardize the HAAG unit meeting process by creating consistent onboarding resources for both faculty advisors and researchers allowing faculty advisors to focus on mentoring researchers rather than managing administrative responsibilities.
 
 This repository is intended to preserve the team's work so future HAAG members can implement, evaluate, and continue improving the onboarding process.
 
@@ -13,7 +13,7 @@ This repository is intended to preserve the team's work so future HAAG members c
 **Initiative**
 - Unit Meeting and Collaboration
 
-**Working Group**
+**Team Members**
 - Arjun Sivanesan
 - Minkyung Oh
 
@@ -84,7 +84,7 @@ Additional resources supporting this initiative include:
 - Recorded the faculty onboarding video.
 - Revised onboarding materials based on project manager feedback.
 - Contributed to the final project presentation.
-- Organized the final GitHub repository documentation.
+- Organized and documented the final GitHub repository.
 
 ## Minkyung Oh
 
