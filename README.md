@@ -49,20 +49,22 @@ The following deliverables were completed during the semester:
 - Prepared documentation to support future implementation, dissemination, and evaluation throughout HAAG.
 ---
 
-# Repository Guide
+## Repository Guide
 
-## Procedures
+### Procedures
 
 The **procedures** folder contains the finalized onboarding procedures developed during this initiative.
 
-- Faculty Onboarding Procedure
-- Researcher Onboarding Procedure
+- [Faculty Onboarding Procedure](procedures/faculty-onboarding-procedure.md)
+- [Researcher Onboarding Procedure](procedures/researcher-onboarding-procedure.md)
 
-## Implementation
+### Implementation
 
 The **implementation** folder documents the implementation status of the initiative, summarizes the work completed during the semester, explains why full implementation was not completed, and provides recommendations for future HAAG teams.
 
-## Supporting Materials
+- [Onboarding Implementation](implementation/onboarding-implementation.md)
+
+### Supporting Materials
 
 Additional resources supporting this initiative include:
 
