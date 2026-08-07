@@ -49,12 +49,17 @@ All researchers are expected to:
 
 # Tools and Prerequisites
 
-Before participating in a unit meeting, researchers should review:
+## Tools
 
-- Researcher Onboarding Presentation
-- Researcher Onboarding Video
+- Microsoft Office Suite (PowerPoint and Word)
+- Recording device or screen recording software
+
+## Prerequisites
+
+Before completing this onboarding procedure, researchers should review:
+
 - Unit Researcher Guide
-- Required Update Template
+- Unit Meeting Update Template
 
 ---
 
